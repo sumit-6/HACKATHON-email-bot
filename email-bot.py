@@ -1,5 +1,4 @@
 import smtplib
-import pandas as pd
 import numpy as np
 flag = 1
 t = input("enter your email:")
